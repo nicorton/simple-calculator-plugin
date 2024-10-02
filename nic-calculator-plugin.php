@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Simple Calculator Plugin
- * Plugin URI: #
+ * Plugin URI: https://nicorton.co.za/simple-calculator-test/
  * Description: A simple calculator plugin using JavaScript.
  * Version: 1.0
  * Author: Your Nic Orton
- * Author URI: #
+ * Author URI: https://nicorton.co.za/
  */
 
 // Enqueue the JavaScript and CSS
